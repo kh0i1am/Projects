@@ -1,4 +1,3 @@
-# Khoi Lam PSID: 1676920
 import csv
 from datetime import datetime, date
 
